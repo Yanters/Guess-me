@@ -1,0 +1,18 @@
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\bin\Debug\Guess me!.exe.config
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\bin\Debug\Guess me!.exe
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\bin\Debug\Guess me!.pdb
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\Guess_me_.Form1.resources
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\Guess_me_.Properties.Resources.resources
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\Guess me!.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\Guess me!.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\Guess me!.exe
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\Guess me!.pdb
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\Guess_me_.Form2.resources
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\bin\Debug\Interop.WMPLib.dll
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\Interop.WMPLib.dll
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\Guess me!.csproj.ResolveComReference.cache
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\Guess_me_.Form3.resources
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\Guess_me_.end.resources
+C:\Users\Konrad\Desktop\Projekty for fun\Guess me!\Guess me!\obj\Debug\Guess me!.csprojAssemblyReference.cache
